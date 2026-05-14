@@ -34,7 +34,3 @@ Estos documentos están pensados para acompañar el aprendizaje de programación
 - Punteros como canales de salida.
 - Relación inicial entre punteros, arreglos y cadenas.
 - Práctica con Arduino, potenciómetro, LED, funciones y arreglos.
-
-## Nota
-
-La gestión de memoria dinámica con `malloc`, `calloc`, `realloc` y `free` se trabaja como continuación natural de esta secuencia.
