@@ -13,7 +13,7 @@ int main() {
         cout << "El puntero p es nulo (nullptr): " << p << endl;
     }
 
-    // Ahora p hace referencia, mediante su direccion, a x.
+    // Ahora p apunta a x porque almacena su direccion.
     p = &x;
 
     // La comprobacion descarta nullptr; aqui sabemos que x existe.
